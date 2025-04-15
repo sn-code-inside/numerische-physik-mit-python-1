@@ -9,5 +9,5 @@ Hier finden Sie die Jupyter-Notebooks zum [Lehrbuch "Numerische Physik mit Pytho
 * **config**   
     Hier liegt die auf Seite 343 des Buchs abgedruckte Datei `environment.yml`. Der Name `myenv` kann ggf. abgeändert werden.
 * **notebooks**   
-    Hier liegen die Jupyter-Notebooks sowie die Datei `numphyspy.style`, die Festlegungen für `matplotlib` enthält, die in
-    den Jupyter-Notebooks verwendet werden.
+    Hier liegen die Jupyter-Notebooks sowie die Datei `numphyspy.style`, die Festlegungen für `matplotlib` zur Verwendeung
+    in den Jupyter-Notebooks enthält.
