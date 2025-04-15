@@ -1,0 +1,3 @@
+font.size:    15
+legend.fontsize:      large
+figure.constrained_layout.use: True
